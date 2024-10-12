@@ -21,7 +21,7 @@
 - :school: I am a `Junior Web Developer`
 - :technologist: **Currently working on** `Frontend Development` at `FullMindTech`
 - :boom: You can visit [MY PORTFOLIO](https://portfolio-palacios-lucas.vercel.app/) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:lucasfpalacios@gmail.com)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=LucasPalacios&amp;color=EA4335&amp;style=flat-square)](mailto:lucasfpalacios@gmail.com)
 
 <be>
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
