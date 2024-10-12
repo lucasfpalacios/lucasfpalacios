@@ -28,7 +28,7 @@
 <br>
 <br>
 <br>
-<h2 >Known technologies</h2>
+<h2 >My Skills</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -40,7 +40,7 @@
 <br>
 <br>
 
-<h2>GitHub :octocat:</h2>
+<h2> :octocat: GitHub</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
