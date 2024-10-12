@@ -16,19 +16,19 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndwZ2pzM2g5bnM0djduZnl5NHFmMXk3bnRtaWZiZW5kOTl5OG00bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 👨‍💻 I am a `Web Developer`
-- :technologist: **Currently working on** `Frontend Development` at `FullMindTech`
-- :computer: Worked in `Ecloud` for almost 2 years as a `Frontend Developer`
+- :technologist: **Currently working on** `Front-end Development` at `FullMindTech`
+- :computer: Worked in `Ecloud` for almost 2 years as a `Front-end Developer`
+- :mag: I am looking for a full-time `Front-end Developer` job
 - :file_folder: You can visit [MY PORTFOLIO](https://portfolio-palacios-lucas.vercel.app/) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=LucasPalacios&amp;color=1041c2&amp;style=flat-square)](mailto:lucasfpalacios@gmail.com)
 
-<be>
 <br>
 <br>
 <br>
-<h2 >My Skills</h2>
+<h2> 🛠️ My Skills</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -40,7 +40,7 @@
 <br>
 <br>
 
-<h2> :octocat: GitHub</h2>
+<h2> :octocat: Github Stats</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
