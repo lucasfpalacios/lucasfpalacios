@@ -20,7 +20,7 @@
 
 - 👨‍💻 I am a `Web Developer`
 - :technologist: **Currently working on** `Frontend Development` at `FullMindTech`
-- :computer: Worked in Ecloud for almost two years
+- :computer: Worked in `Ecloud` for almost 2 years as a `Frontend Developer`
 - :file_folder: You can visit [MY PORTFOLIO](https://portfolio-palacios-lucas.vercel.app/) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=LucasPalacios&amp;color=1041c2&amp;style=flat-square)](mailto:lucasfpalacios@gmail.com)
 
@@ -32,6 +32,31 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,css,html,js,ts,astro,git,github,py,docker,materialui,bootstrap,tailwind,postman,vscode,figma&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,css,html,js,ts,astro,git,github,gitlab,py,docker,materialui,bootstrap,tailwind,postman,vscode,apple,windows,figma&perline=12" />
   </a>
 </p>
+
+<br>
+<br>
+<br>
+
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
+
+<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
+  <br></br> -->
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="40%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lucasfpalacios&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
