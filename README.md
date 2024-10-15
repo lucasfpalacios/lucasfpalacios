@@ -25,7 +25,7 @@
 - :technologist: **I am currently working as a freelance** `Front-end Developer` at [FullMindTech](https://fullmindtech.com.ar/)
 - :computer: Worked in `Ecloud` for almost 2 years as a `Front-end Developer`
 - :mag: I am looking for a full-time `Front-end Developer` job
-- :file_folder: You can visit [MY PORTFOLIO](https://portfolio-palacios-lucas.vercel.app/) for some frontend knowledge
+- :file_folder: You can visit [My Portfolio](https://portfolio-palacios-lucas.vercel.app/) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=LucasPalacios&amp;color=1041c2&amp;style=flat-square)](mailto:lucasfpalacios@gmail.com)
 
 <br>
