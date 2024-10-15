@@ -22,7 +22,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 👨‍💻 I am a `Web Developer`
-- :technologist: **I am currently working as a freelance** `Front-end Developer` at `FullMindTech`
+- :technologist: **I am currently working as a freelance** `Front-end Developer` at [FullMindTech](https://fullmindtech.com.ar/)
 - :computer: Worked in `Ecloud` for almost 2 years as a `Front-end Developer`
 - :mag: I am looking for a full-time `Front-end Developer` job
 - :file_folder: You can visit [MY PORTFOLIO](https://portfolio-palacios-lucas.vercel.app/) for some frontend knowledge
