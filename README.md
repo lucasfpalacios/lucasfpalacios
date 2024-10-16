@@ -33,9 +33,35 @@
 <br>
 <h2> 🛠️ My Skills</h2>
 <!--tech stack icons-->
+</p>
+<h3> Programming Languages: </h3>
+<!--programing languages icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,html,js,ts,astro,css,sass,git,github,gitlab,py,docker,materialui,bootstrap,tailwind,postman,vscode,apple,windows,figma&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py&perline=12" />
+  </a>
+</p>
+
+<h3> Frontend Technologies: </h3>
+<!--frontend stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass&perline=12" />
+  </a>
+</p>
+<h3> Frameworks: </h3>
+<!--frameworks stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,astro,materialui,bootstrap,tailwind&perline=12" />
+  </a>
+</p>
+
+<h3> Tools: </h3>
+<!--tools icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,vscode,apple,windows,figma&perline=12" />
   </a>
 </p>
 
