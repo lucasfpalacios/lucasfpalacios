@@ -53,7 +53,7 @@
 <!--frameworks stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,astro,materialui,bootstrap,tailwind&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,astro,materialui,bootstrap,tailwind,styledcomponents&perline=12" />
   </a>
 </p>
 
