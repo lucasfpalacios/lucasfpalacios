@@ -22,9 +22,8 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 👨‍💻 I am a `Web Developer`
-- :technologist: Currently working as a freelance `Front-end Developer` at [FullMindTech](https://fullmindtech.com.ar/)
+- :technologist: Currently working as a `Front-end Developer` at [FullMindTech](https://fullmindtech.com.ar/)
 - :computer: I worked at [Ecloud](https://www.ecloud.agency/) for almost 2 years as a `Front-end Developer`
-- :mag: Looking for a full-time `Front-end Developer` job
 - :file_folder: You can visit [My Portfolio](https://lucasfpalacios.vercel.app/) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=LucasPalacios&amp;color=1041c2&amp;style=flat-square)](mailto:lucasfpalacios@gmail.com)
 
