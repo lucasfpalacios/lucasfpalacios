@@ -23,7 +23,7 @@
 
 - 👨‍💻 I am a `Web Developer`
 - :technologist: Currently working as a `Front-end Developer` at [FullMindTech](https://fullmindtech.com.ar/)
-- 🏫 Currently studing `University Artificial inteligence Technician.` at [FCEIA(UNR)]([https://fullmindtech.com.ar/](https://web.fceia.unr.edu.ar/es/))
+- 🏫 Currently studying `University Artificial Intelligence Technician` at [FCEIA(UNR)]([https://fullmindtech.com.ar/](https://web.fceia.unr.edu.ar/es/))
 - :computer: I worked at [Ecloud](https://www.ecloud.agency/) for almost 2 years as a `Front-end Developer`
 - :file_folder: You can visit [My Portfolio](https://lucasfpalacios.vercel.app/) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=LucasPalacios&amp;color=1041c2&amp;style=flat-square)](mailto:lucasfpalacios@gmail.com)
