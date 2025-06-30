@@ -38,7 +38,7 @@
 <!--programing languages icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,bash&perline=12" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 <!--tools icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vite,docker,postman,vscode,figma,apple,windows&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vite,docker,postman,vscode,figma,apple,windows,linux&perline=12" />
   </a>
 </p>
 
