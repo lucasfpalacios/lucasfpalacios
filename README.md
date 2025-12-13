@@ -53,7 +53,7 @@
 <!--frameworks stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,astro,materialui,bootstrap,tailwind,styledcomponents&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,astro,wordpress,materialui,bootstrap,tailwind,styledcomponents&perline=12" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 <!--tools icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vite,docker,postman,vscode,figma,apple,windows,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vite,docker,postman,vscode,figma,npm,notion,apple,windows,linux&perline=12" />
   </a>
 </p>
 
