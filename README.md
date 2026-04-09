@@ -19,7 +19,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <!-- MEJORA: Pasé los textos al español para que tengan coherencia con tu título del SVG ("Estudiante de Inteligencia Artificial") y actualicé todo tu historial. -->
-- 🚀 Co-fundador de **Shinka** junto a mi socio Mariano, creando apps híbridas y automatizando procesos empresariales.
+- 🚀 Co-fundador de [**Shinka**](https://github.com/shinka-development) junto a mi socio Mariano, creando apps híbridas y automatizando procesos empresariales.
 - 👨‍💻 Más de 2 años de experiencia como **Front-end Developer** y 1 año como **Project Manager**.
 - 🏫 Estudiando la **Tecnicatura en Inteligencia Artificial** en la [UNR](https://web.fceia.unr.edu.ar/es/).
 - 🛠️ Experiencia previa como **Localization Engineer** en RWS (trabajando en el equipo de feedback y bug-fixing).
