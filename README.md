@@ -47,7 +47,7 @@
 <p align="left">
   <!-- MEJORA: Junté Tecnologías y Frameworks para ahorrar espacio y agregué el ícono de 'ionic' (ya que en Shinka hacen apps híbridas). -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,vue,nuxt,react,next,astro,wordpress,materialui,bootstrap,tailwind,styledcomponents,ionic&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,vue,nuxt,react,next,astro,wordpress,materialui,bootstrap,tailwind,styledcomponents&perline=14" />
   </a>
 </p>
 
