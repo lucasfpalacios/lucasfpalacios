@@ -19,13 +19,13 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <!-- MEJORA: Pasé los textos al español para que tengan coherencia con tu título del SVG ("Estudiante de Inteligencia Artificial") y actualicé todo tu historial. -->
-- 🚀 Co-fundador de [**Shinka**](https://github.com/shinka-development) junto a mi socio Mariano, creando apps híbridas y automatizando procesos empresariales.
-- 👨‍💻 Más de 3 años de experiencia como **Front-end Developer** y 1 año como **Project Manager**.
-- 🏫 Estudiando la **Tecnicatura en Inteligencia Artificial** en la [UNR](https://web.fceia.unr.edu.ar/es/).
-- 🛠️ Experiencia previa como **Localization Engineer** en RWS (trabajando en el equipo de feedback y bug-fixing).
-- 🤖 Actualmente construyendo: Bots de IA con n8n, dashboards de finanzas y proyectos IoT (radares y domótica con ESP32).
-- ⚡ Fun fact: Cuando no estoy programando, seguro estoy en Azeroth (jugando WoW) o disfrutando de un buen desayuno o merienda salada.
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=LucasPalacios&color=1041c2&style=flat-square)](mailto:lucasfpalacios@gmail.com)
+- 🚀 Co-founder of [**Shinka**](https://github.com/shinka-development) alongside my partner Mariano, building hybrid apps and automating business processes.
+- 👨‍💻 Over 3 years of experience as a **Front-end Developer** and 1 year as a **Project Manager**.
+- 🏫 Currently studying for a **Technical Degree in Artificial Intelligence** at [UNR](https://web.fceia.unr.edu.ar/es/).
+- 🛠️ Previous experience as a **Localization Engineer** at RWS (working on the feedback and bug-fixing team).
+- 🤖 Currently building: AI bots with n8n, finance dashboards, and IoT projects (radars and home automation using ESP32).
+- ⚡ Fun fact: When I'm not coding, you can probably find me in Azeroth (playing WoW) or enjoying a good savory breakfast or afternoon snack.
+- :email: Feel free to **reach out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=LucasPalacios&color=1041c2&style=flat-square)](mailto:lucasfpalacios@gmail.com)
 
 <br>
 <br>
