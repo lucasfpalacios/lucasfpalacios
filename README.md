@@ -51,7 +51,7 @@
   </a>
 </p>
 
-<h3> Especialidades & Apps Híbridas: </h3>
+<h3> Specialties & Hybrid Apps: </h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=white" />
   <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white" />
