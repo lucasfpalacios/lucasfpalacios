@@ -10,7 +10,7 @@
 
 <p align="center">
   <!-- MEJORA: SVG actualizado con el efecto de "escribir y borrar" por rol. Queda mucho más limpio y no se corta el texto. Cambié "FrontEnd" por "Front-End" por convención. -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;Front-End+Developer;Project+Manager;Estudiante+de+Inteligencia+Artificial"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;Full-stack+Developer;Estudiante+de+Inteligencia+Artificial"></a>
 </p> 
 
 <!--About Me-->
