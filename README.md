@@ -47,7 +47,7 @@
 <p align="left">
   <!-- MEJORA: Junté Tecnologías y Frameworks para ahorrar espacio y agregué el ícono de 'ionic' (ya que en Shinka hacen apps híbridas). -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,vue,nuxt,react,next,astro,wordpress,materialui,bootstrap,tailwind,materialui,styledcomponents&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,vue,nuxt,react,next,astro,fastapi,wordpress,materialui,bootstrap,tailwind,styledcomponents&perline=14" />
   </a>
 </p>
 
@@ -63,7 +63,7 @@
 <p align="left">
   <!-- MEJORA: Agregué 'postgres' a la lista, ya que lo usás para la base de datos del bot de ventas con n8n, y 'arduino' para representar el trabajo de hardware con el ESP32. -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vite,docker,postman,vscode,figma,npm,pnpm,notion,postgres,arduino,apple,windows,linux&perline=15" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vite,docker,postman,vscode,figma,npm,pnpm,notion,obsidian,postgres,arduino,apple,windows,linux&perline=15" />
   </a>
 </p>
 
